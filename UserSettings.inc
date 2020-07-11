@@ -23,7 +23,7 @@ StaticAccentColor=255, 206, 115
 
 UpdateEvery=10
 
-;scale the skin. Defualt is 1. *WARNING* If you scale the skin tool large it may crash rainmeter.
+;scale the skin. Defualt is 1. *WARNING* If you scale the skin too large it may crash rainmeter.
 ;If this happens and rainmeter continues to crash open userSetting.inc from file explorer in your rainmeter/skins/lottaweather/@Resources folder and lower the scale
 
 scale=0.85
