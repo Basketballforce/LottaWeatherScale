@@ -2,7 +2,7 @@
 
 ;visit www.weather.codes to find a code for your location. 
 
-Location=USFL0526
+Location=
 
 ;en_GB for metric, en_US for imperial. You can add your own language (for example fr_FR for French, or ja_JP for Japanese) but I cannot guarantee that it will look good
 
